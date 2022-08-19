@@ -1,0 +1,114 @@
+9966@DESKTOP-PHGV968 MINGW64 ~
+$ git version
+git version 2.37.2.windows.2
+
+9966@DESKTOP-PHGV968 MINGW64 ~
+$ git config --global user.name "Shivakumar"
+
+9966@DESKTOP-PHGV968 MINGW64 ~
+$ git config --global user.email "Shivakumar@gmail.com"
+
+9966@DESKTOP-PHGV968 MINGW64 ~
+$ git config --global --list
+user.name=Shivakumar
+user.email=Shivakumar@gmail.com
+core.editor=notepad++.exe -multiInst -nosession
+
+9966@DESKTOP-PHGV968 MINGW64 ~
+$ notepad++
+
+
+9966@DESKTOP-PHGV968 MINGW64 ~
+$ notepad++.exe bash -profile
+
+9966@DESKTOP-PHGV968 MINGW64 ~
+$ git config --global core.editor "notepad++.exe -multiInst -nosession"
+
+9966@DESKTOP-PHGV968 MINGW64 ~
+$ git config --global -e
+hint: Waiting for your editor to close the file...
+
+
+9966@DESKTOP-PHGV968 MINGW64 ~
+$ git init GitDemo
+Reinitialized existing Git repository in C:/Users/9966/GitDemo/.git/
+
+$ ls -al
+
+-rw-r--r-- 1 9966 197121     616 Mar 16 22:50  Untitled.ipynb
+-rw-r--r-- 1 9966 197121    1958 Mar 17 09:58  Untitled1.ipynb
+-rw-r--r-- 1 9966 197121     589 Mar 21 13:59  Untitled2.ipynb
+-rw-r--r-- 1 9966 197121     589 Mar 22 15:10  Untitled3.ipynb
+drwxr-xr-x 1 9966 197121       0 Feb 22 18:30  Videos/
+-rw-r--r-- 1 9966 197121      62 Aug 17 17:10  Welcome.txt
+-rw-r--r-- 1 9966 197121     640 Mar 17 10:14 'adding nums.ipynb'
+-rw-r--r-- 1 9966 197121       0 Aug 17 16:57  bash
+-rw-r--r-- 1 9966 197121     803 Mar 17 10:15  downloads.ipynb
+drwxr-xr-x 1 9966 197121       0 Aug  5 12:55  my-first-project/
+drwxr-xr-x 1 9966 197121       0 Aug 15 22:59  myprojectDir/
+drwxr-xr-x 1 9966 197121       0 Aug 15 23:00  newprojectDir/
+-rw-r--r-- 1 9966 197121  655360 Dec 21  2021  ntuser.dat.LOG1
+-rw-r--r-- 1 9966 197121  798720 Dec 21  2021  ntuser.dat.LOG2
+-rw-r--r-- 1 9966 197121      20 Dec 21  2021  ntuser.ini
+drwxr-xr-x 1 9966 197121       0 Aug 15 17:44  source/
+
+
+
+$ ls -al
+-rw-r--r-- 1 9966 197121     616 Mar 16 22:50  Untitled.ipynb
+-rw-r--r-- 1 9966 197121    1958 Mar 17 09:58  Untitled1.ipynb
+-rw-r--r-- 1 9966 197121     589 Mar 21 13:59  Untitled2.ipynb
+-rw-r--r-- 1 9966 197121     589 Mar 22 15:10  Untitled3.ipynb
+drwxr-xr-x 1 9966 197121       0 Feb 22 18:30  Videos/
+-rw-r--r-- 1 9966 197121      93 Aug 18 22:57  Welcome.txt
+-rw-r--r-- 1 9966 197121     640 Mar 17 10:14 'adding nums.ipynb'
+-rw-r--r-- 1 9966 197121       0 Aug 17 16:57  bash
+-rw-r--r-- 1 9966 197121     803 Mar 17 10:15  downloads.ipynb
+drwxr-xr-x 1 9966 197121       0 Aug  5 12:55  my-first-project/
+drwxr-xr-x 1 9966 197121       0 Aug 15 22:59  myprojectDir/
+drwxr-xr-x 1 9966 197121       0 Aug 15 23:00  newprojectDir/
+-rw-r--r-- 1 9966 197121  798720 Dec 21  2021  ntuser.dat.LOG1
+-rw-r--r-- 1 9966 197121  798720 Dec 21  2021  ntuser.dat.LOG2
+-rw-r--r-- 1 9966 197121      20 Dec 21  2021  ntuser.ini
+drwxr-xr-x 1 9966 197121       0 Aug 15 17:44  source/
+
+9966@DESKTOP-PHGV968 MINGW64 ~
+$ cat welcome.txt
+Welcome to the version control
+
+
+9966@DESKTOP-PHGV968 MINGW64 ~
+$ git status
+
+ Welcome.txt
+
+
+9966@DESKTOP-PHGV968 MINGW64 ~
+$ git add welcome.txt
+
+
+9966@DESKTOP-PHGV968 MINGW64 ~
+ $ git status
+ Welcome.txt
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

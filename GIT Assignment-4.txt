@@ -1,0 +1,108 @@
+9966@DESKTOP-PHGV968 MINGW64 ~ (master)
+$ cd myprojectDir/
+
+9966@DESKTOP-PHGV968 MINGW64 ~/myprojectDir (master)
+$ git status
+On branch master
+
+No commits yet
+
+nothing to commit (create/copy files and use "git add" to track)
+
+9966@DESKTOP-PHGV968 MINGW64 ~/myprojectDir (master)
+$ ls
+
+9966@DESKTOP-PHGV968 MINGW64 ~/myprojectDir (master)
+$ ls -a
+./  ../  .git/
+
+9966@DESKTOP-PHGV968 MINGW64 ~/myprojectDir (master)
+$ pwd
+/c/Users/9966/myprojectDir
+
+9966@DESKTOP-PHGV968 MINGW64 ~/myprojectDir (master)
+$ cd
+
+9966@DESKTOP-PHGV968 MINGW64 ~ (master)
+$ ls
+'3D Objects'/
+ AppData/
+'Application Data'@
+ Contacts/
+ Cookies@
+ Desktop/
+ Documents/
+ Downloads/
+'E-mail spam classifier.ipynb'
+ Favorites/
+ GitDemo/
+ IntelGraphicsProfiles/
+ Links/
+'Local Settings'@
+ MicrosoftEdgeBackups/
+ Music/
+'My Documents'@
+ NTUSER.DAT
+ NTUSER.DAT{53b39e88-18c4-11ea-a811-000d3aa4692b}.TM.blf
+ NTUSER.DAT{53b39e88-18c4-11ea-a811-000d3aa4692b}.TMContainer00000000000000000001.regtrans-ms
+ NTUSER.DAT{53b39e88-18c4-11ea-a811-000d3aa4692b}.TMContainer00000000000000000002.regtrans-ms
+ NetHood@
+ OneDrive/
+ Pictures/
+ PrintHood@
+ Recent@
+'Saved Games'/
+ Searches/
+ SendTo@
+'Start Menu'@
+ Templates@
+ Untitled.ipynb
+ Untitled1.ipynb
+ Untitled2.ipynb
+ Untitled3.ipynb
+ Videos/
+ Welcome.txt
+'adding nums.ipynb'
+ bash
+ downloads.ipynb
+ my-first-project/
+ myprojectDir/
+ newgitprojectdir/
+ newprojectDir/
+ ntuser.dat.LOG1
+ ntuser.dat.LOG2
+ ntuser.ini
+ source/
+ thegitprojectdir/
+
+9966@DESKTOP-PHGV968 MINGW64 ~ (master)
+$ git add welcome.txt
+
+9966@DESKTOP-PHGV968 MINGW64 ~ (master)
+$ cat welcome.txt
+Welcome to the version control
+Welcome to the version control
+welcome to the version control
+
+9966@DESKTOP-PHGV968 MINGW64 ~ (master)
+$ git add newgitprojectdir
+warning: adding embedded git repository: newgitprojectdir
+hint: You've added another git repository inside your current repository.
+hint: Clones of the outer repository will not contain the contents of
+hint: the embedded repository and will not know how to obtain it.
+hint: If you meant to add a submodule, use:
+hint:
+hint:   git submodule add <url> newgitprojectdir
+hint:
+hint: If you added this path by mistake, you can remove it from the
+hint: index with:
+hint:
+hint:   git rm --cached newgitprojectdir
+hint:
+hint: See "git help submodule" for more information.
+
+9966@DESKTOP-PHGV968 MINGW64 ~ (master)
+$ git branch
+
+
+
