@@ -4,18 +4,26 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace you_look_older_than
+namespace ps_5_biggest_of_two
 {
     internal class Program
     {
         static void Main(string[] args)
         {
-            int age;
-            Console.WriteLine("enter your age");
-            age = Convert.ToInt32(Console.ReadLine());
-            Console.Write("you look older than", age);
-            Console.WriteLine(age);
+            int a, b;
+            Console.WriteLine("Enter the first number:");
+            a=Convert.ToInt32(Console.ReadLine());
+
+            Console.WriteLine("Enter the Second number:");
+            b = Convert.ToInt32(Console.ReadLine());
+
+            if (a > b)
+                Console.WriteLine("Biggest number is " + a);
+            else
+                Console.WriteLine("Biggest number is" + b);
+
             Console.ReadLine();
+
         }
     }
 }
