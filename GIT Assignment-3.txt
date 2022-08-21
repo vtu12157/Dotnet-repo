@@ -1,0 +1,65 @@
+
+9966@DESKTOP-PHGV968 MINGW64 ~ (master)
+$ cd gitdemo
+
+9966@DESKTOP-PHGV968 MINGW64 ~/gitdemo (master)
+$ git clone "https://github.com/vtu12157/Dotnet-repo"
+Cloning into 'Dotnet-repo'...
+remote: Enumerating objects: 3, done.
+remote: Counting objects: 100% (3/3), done.
+remote: Total 3 (delta 0), reused 0 (delta 0), pack-reused 0
+Receiving objects: 100% (3/3), done.
+
+9966@DESKTOP-PHGV968 MINGW64 ~/gitdemo (master)
+$ git status
+On branch master
+
+No commits yet
+
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+        Dotnet-repo/
+
+nothing added to commit but untracked files present (use "git add" to track)
+
+9966@DESKTOP-PHGV968 MINGW64 ~/gitdemo (master)
+$ cd Dotnet-repo
+
+
+9966@DESKTOP-PHGV968 MINGW64 ~/gitdemo/Dotnet-repo (main)
+$ git status
+On branch main
+Your branch is up to date with 'origin/main'.
+
+nothing to commit, working tree clean
+
+9966@DESKTOP-PHGV968 MINGW64 ~/gitdemo/Dotnet-repo (main)
+$ git log
+commit 43657ef141dedb4b7be3a87533e0c2c3e666feb2 (HEAD -> main, origin/main, origin/HEAD)
+Author: vtu12157 <83711632+vtu12157@users.noreply.github.com>
+Date:   Tue Aug 16 15:40:23 2022 +0530
+
+    Initial commit
+
+9966@DESKTOP-PHGV968 MINGW64 ~/gitdemo/Dotnet-repo (main)
+$ git branch multiply
+
+9966@DESKTOP-PHGV968 MINGW64 ~/gitdemo/Dotnet-repo (main)
+$ git branch
+* main
+  multiply
+
+$ git checkout multiply
+Switched to branch 'multiply'
+
+9966@DESKTOP-PHGV968 MINGW64 ~/gitdemo/Dotnet-repo (multiply)
+$ git commit -m "new file"
+On branch multiply
+nothing to commit, working tree clean
+
+9966@DESKTOP-PHGV968 MINGW64 ~/gitdemo/Dotnet-repo (multiply)
+$ git checkout main
+Switched to branch 'main'
+Your branch is up to date with 'origin/main'.
+
+
