@@ -1,0 +1,8 @@
+C:\Users\9966\source\repos\Average of four numbers\Average of four numbers\bin\Debug\Average of four numbers.exe.config
+C:\Users\9966\source\repos\Average of four numbers\Average of four numbers\bin\Debug\Average of four numbers.exe
+C:\Users\9966\source\repos\Average of four numbers\Average of four numbers\bin\Debug\Average of four numbers.pdb
+C:\Users\9966\source\repos\Average of four numbers\Average of four numbers\obj\Debug\Average of four numbers.csproj.AssemblyReference.cache
+C:\Users\9966\source\repos\Average of four numbers\Average of four numbers\obj\Debug\Average of four numbers.csproj.SuggestedBindingRedirects.cache
+C:\Users\9966\source\repos\Average of four numbers\Average of four numbers\obj\Debug\Average of four numbers.csproj.CoreCompileInputs.cache
+C:\Users\9966\source\repos\Average of four numbers\Average of four numbers\obj\Debug\Average of four numbers.exe
+C:\Users\9966\source\repos\Average of four numbers\Average of four numbers\obj\Debug\Average of four numbers.pdb

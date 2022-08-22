@@ -1,0 +1,8 @@
+C:\Users\9966\source\repos\PS-7 results program\PS-7 results program\bin\Debug\PS-7 results program.exe.config
+C:\Users\9966\source\repos\PS-7 results program\PS-7 results program\bin\Debug\PS-7 results program.exe
+C:\Users\9966\source\repos\PS-7 results program\PS-7 results program\bin\Debug\PS-7 results program.pdb
+C:\Users\9966\source\repos\PS-7 results program\PS-7 results program\obj\Debug\PS-7 results program.csproj.AssemblyReference.cache
+C:\Users\9966\source\repos\PS-7 results program\PS-7 results program\obj\Debug\PS-7 results program.csproj.SuggestedBindingRedirects.cache
+C:\Users\9966\source\repos\PS-7 results program\PS-7 results program\obj\Debug\PS-7 results program.csproj.CoreCompileInputs.cache
+C:\Users\9966\source\repos\PS-7 results program\PS-7 results program\obj\Debug\PS-7 results program.exe
+C:\Users\9966\source\repos\PS-7 results program\PS-7 results program\obj\Debug\PS-7 results program.pdb

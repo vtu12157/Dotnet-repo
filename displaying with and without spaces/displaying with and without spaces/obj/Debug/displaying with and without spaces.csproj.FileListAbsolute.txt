@@ -1,0 +1,8 @@
+C:\Users\9966\source\repos\displaying with and without spaces\displaying with and without spaces\bin\Debug\displaying with and without spaces.exe.config
+C:\Users\9966\source\repos\displaying with and without spaces\displaying with and without spaces\bin\Debug\displaying with and without spaces.exe
+C:\Users\9966\source\repos\displaying with and without spaces\displaying with and without spaces\bin\Debug\displaying with and without spaces.pdb
+C:\Users\9966\source\repos\displaying with and without spaces\displaying with and without spaces\obj\Debug\displaying with and without spaces.csproj.AssemblyReference.cache
+C:\Users\9966\source\repos\displaying with and without spaces\displaying with and without spaces\obj\Debug\displaying with and without spaces.csproj.SuggestedBindingRedirects.cache
+C:\Users\9966\source\repos\displaying with and without spaces\displaying with and without spaces\obj\Debug\displaying with and without spaces.csproj.CoreCompileInputs.cache
+C:\Users\9966\source\repos\displaying with and without spaces\displaying with and without spaces\obj\Debug\displaying with and without spaces.exe
+C:\Users\9966\source\repos\displaying with and without spaces\displaying with and without spaces\obj\Debug\displaying with and without spaces.pdb

@@ -1,0 +1,8 @@
+C:\Users\9966\source\repos\celcius to fahrenheit\celcius to fahrenheit\bin\Debug\celcius to fahrenheit.exe.config
+C:\Users\9966\source\repos\celcius to fahrenheit\celcius to fahrenheit\bin\Debug\celcius to fahrenheit.exe
+C:\Users\9966\source\repos\celcius to fahrenheit\celcius to fahrenheit\bin\Debug\celcius to fahrenheit.pdb
+C:\Users\9966\source\repos\celcius to fahrenheit\celcius to fahrenheit\obj\Debug\celcius to fahrenheit.csproj.AssemblyReference.cache
+C:\Users\9966\source\repos\celcius to fahrenheit\celcius to fahrenheit\obj\Debug\celcius to fahrenheit.csproj.SuggestedBindingRedirects.cache
+C:\Users\9966\source\repos\celcius to fahrenheit\celcius to fahrenheit\obj\Debug\celcius to fahrenheit.csproj.CoreCompileInputs.cache
+C:\Users\9966\source\repos\celcius to fahrenheit\celcius to fahrenheit\obj\Debug\celcius to fahrenheit.exe
+C:\Users\9966\source\repos\celcius to fahrenheit\celcius to fahrenheit\obj\Debug\celcius to fahrenheit.pdb

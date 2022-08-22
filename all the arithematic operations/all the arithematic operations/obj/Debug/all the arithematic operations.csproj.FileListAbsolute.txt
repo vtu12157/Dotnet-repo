@@ -1,0 +1,8 @@
+C:\Users\9966\source\repos\all the arithematic operations\all the arithematic operations\bin\Debug\all the arithematic operations.exe.config
+C:\Users\9966\source\repos\all the arithematic operations\all the arithematic operations\bin\Debug\all the arithematic operations.exe
+C:\Users\9966\source\repos\all the arithematic operations\all the arithematic operations\bin\Debug\all the arithematic operations.pdb
+C:\Users\9966\source\repos\all the arithematic operations\all the arithematic operations\obj\Debug\all the arithematic operations.csproj.AssemblyReference.cache
+C:\Users\9966\source\repos\all the arithematic operations\all the arithematic operations\obj\Debug\all the arithematic operations.csproj.SuggestedBindingRedirects.cache
+C:\Users\9966\source\repos\all the arithematic operations\all the arithematic operations\obj\Debug\all the arithematic operations.csproj.CoreCompileInputs.cache
+C:\Users\9966\source\repos\all the arithematic operations\all the arithematic operations\obj\Debug\all the arithematic operations.exe
+C:\Users\9966\source\repos\all the arithematic operations\all the arithematic operations\obj\Debug\all the arithematic operations.pdb

@@ -1,0 +1,8 @@
+C:\Users\9966\source\repos\celcius kelvin farenheit\celcius kelvin farenheit\bin\Debug\celcius kelvin farenheit.exe.config
+C:\Users\9966\source\repos\celcius kelvin farenheit\celcius kelvin farenheit\bin\Debug\celcius kelvin farenheit.exe
+C:\Users\9966\source\repos\celcius kelvin farenheit\celcius kelvin farenheit\bin\Debug\celcius kelvin farenheit.pdb
+C:\Users\9966\source\repos\celcius kelvin farenheit\celcius kelvin farenheit\obj\Debug\celcius kelvin farenheit.csproj.AssemblyReference.cache
+C:\Users\9966\source\repos\celcius kelvin farenheit\celcius kelvin farenheit\obj\Debug\celcius kelvin farenheit.csproj.SuggestedBindingRedirects.cache
+C:\Users\9966\source\repos\celcius kelvin farenheit\celcius kelvin farenheit\obj\Debug\celcius kelvin farenheit.csproj.CoreCompileInputs.cache
+C:\Users\9966\source\repos\celcius kelvin farenheit\celcius kelvin farenheit\obj\Debug\celcius kelvin farenheit.exe
+C:\Users\9966\source\repos\celcius kelvin farenheit\celcius kelvin farenheit\obj\Debug\celcius kelvin farenheit.pdb

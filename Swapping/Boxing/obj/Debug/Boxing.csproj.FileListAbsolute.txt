@@ -1,0 +1,8 @@
+C:\Users\9966\source\repos\Boxing\Boxing\bin\Debug\Boxing.exe.config
+C:\Users\9966\source\repos\Boxing\Boxing\bin\Debug\Boxing.exe
+C:\Users\9966\source\repos\Boxing\Boxing\bin\Debug\Boxing.pdb
+C:\Users\9966\source\repos\Boxing\Boxing\obj\Debug\Boxing.csproj.AssemblyReference.cache
+C:\Users\9966\source\repos\Boxing\Boxing\obj\Debug\Boxing.csproj.SuggestedBindingRedirects.cache
+C:\Users\9966\source\repos\Boxing\Boxing\obj\Debug\Boxing.csproj.CoreCompileInputs.cache
+C:\Users\9966\source\repos\Boxing\Boxing\obj\Debug\Boxing.exe
+C:\Users\9966\source\repos\Boxing\Boxing\obj\Debug\Boxing.pdb

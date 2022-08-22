@@ -1,0 +1,8 @@
+C:\Users\9966\source\repos\form a rectangle with number\form a rectangle with number\bin\Debug\form a rectangle with number.exe.config
+C:\Users\9966\source\repos\form a rectangle with number\form a rectangle with number\bin\Debug\form a rectangle with number.exe
+C:\Users\9966\source\repos\form a rectangle with number\form a rectangle with number\bin\Debug\form a rectangle with number.pdb
+C:\Users\9966\source\repos\form a rectangle with number\form a rectangle with number\obj\Debug\form a rectangle with number.csproj.AssemblyReference.cache
+C:\Users\9966\source\repos\form a rectangle with number\form a rectangle with number\obj\Debug\form a rectangle with number.csproj.SuggestedBindingRedirects.cache
+C:\Users\9966\source\repos\form a rectangle with number\form a rectangle with number\obj\Debug\form a rectangle with number.csproj.CoreCompileInputs.cache
+C:\Users\9966\source\repos\form a rectangle with number\form a rectangle with number\obj\Debug\form a rectangle with number.exe
+C:\Users\9966\source\repos\form a rectangle with number\form a rectangle with number\obj\Debug\form a rectangle with number.pdb

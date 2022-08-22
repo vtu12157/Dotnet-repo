@@ -1,0 +1,8 @@
+C:\Users\9966\source\repos\ps-8 print pattern\ps-8 print pattern\bin\Debug\ps-8 print pattern.exe.config
+C:\Users\9966\source\repos\ps-8 print pattern\ps-8 print pattern\bin\Debug\ps-8 print pattern.exe
+C:\Users\9966\source\repos\ps-8 print pattern\ps-8 print pattern\bin\Debug\ps-8 print pattern.pdb
+C:\Users\9966\source\repos\ps-8 print pattern\ps-8 print pattern\obj\Debug\ps-8 print pattern.csproj.AssemblyReference.cache
+C:\Users\9966\source\repos\ps-8 print pattern\ps-8 print pattern\obj\Debug\ps-8 print pattern.csproj.SuggestedBindingRedirects.cache
+C:\Users\9966\source\repos\ps-8 print pattern\ps-8 print pattern\obj\Debug\ps-8 print pattern.csproj.CoreCompileInputs.cache
+C:\Users\9966\source\repos\ps-8 print pattern\ps-8 print pattern\obj\Debug\ps-8 print pattern.exe
+C:\Users\9966\source\repos\ps-8 print pattern\ps-8 print pattern\obj\Debug\ps-8 print pattern.pdb

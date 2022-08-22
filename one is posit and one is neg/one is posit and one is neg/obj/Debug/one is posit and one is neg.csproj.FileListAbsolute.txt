@@ -1,0 +1,8 @@
+C:\Users\9966\source\repos\one is posit and one is neg\one is posit and one is neg\bin\Debug\one is posit and one is neg.exe.config
+C:\Users\9966\source\repos\one is posit and one is neg\one is posit and one is neg\bin\Debug\one is posit and one is neg.exe
+C:\Users\9966\source\repos\one is posit and one is neg\one is posit and one is neg\bin\Debug\one is posit and one is neg.pdb
+C:\Users\9966\source\repos\one is posit and one is neg\one is posit and one is neg\obj\Debug\one is posit and one is neg.csproj.AssemblyReference.cache
+C:\Users\9966\source\repos\one is posit and one is neg\one is posit and one is neg\obj\Debug\one is posit and one is neg.csproj.SuggestedBindingRedirects.cache
+C:\Users\9966\source\repos\one is posit and one is neg\one is posit and one is neg\obj\Debug\one is posit and one is neg.csproj.CoreCompileInputs.cache
+C:\Users\9966\source\repos\one is posit and one is neg\one is posit and one is neg\obj\Debug\one is posit and one is neg.exe
+C:\Users\9966\source\repos\one is posit and one is neg\one is posit and one is neg\obj\Debug\one is posit and one is neg.pdb

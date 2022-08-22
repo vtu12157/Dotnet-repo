@@ -1,0 +1,8 @@
+C:\Users\9966\source\repos\PS-13\PS-13\bin\Debug\PS-13.exe.config
+C:\Users\9966\source\repos\PS-13\PS-13\bin\Debug\PS-13.exe
+C:\Users\9966\source\repos\PS-13\PS-13\bin\Debug\PS-13.pdb
+C:\Users\9966\source\repos\PS-13\PS-13\obj\Debug\PS-13.csproj.AssemblyReference.cache
+C:\Users\9966\source\repos\PS-13\PS-13\obj\Debug\PS-13.csproj.SuggestedBindingRedirects.cache
+C:\Users\9966\source\repos\PS-13\PS-13\obj\Debug\PS-13.csproj.CoreCompileInputs.cache
+C:\Users\9966\source\repos\PS-13\PS-13\obj\Debug\PS-13.exe
+C:\Users\9966\source\repos\PS-13\PS-13\obj\Debug\PS-13.pdb

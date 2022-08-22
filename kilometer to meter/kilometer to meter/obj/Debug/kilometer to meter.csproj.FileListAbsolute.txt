@@ -1,0 +1,8 @@
+C:\Users\9966\source\repos\kilometer to meter\kilometer to meter\bin\Debug\kilometer to meter.exe.config
+C:\Users\9966\source\repos\kilometer to meter\kilometer to meter\bin\Debug\kilometer to meter.exe
+C:\Users\9966\source\repos\kilometer to meter\kilometer to meter\bin\Debug\kilometer to meter.pdb
+C:\Users\9966\source\repos\kilometer to meter\kilometer to meter\obj\Debug\kilometer to meter.csproj.AssemblyReference.cache
+C:\Users\9966\source\repos\kilometer to meter\kilometer to meter\obj\Debug\kilometer to meter.csproj.SuggestedBindingRedirects.cache
+C:\Users\9966\source\repos\kilometer to meter\kilometer to meter\obj\Debug\kilometer to meter.csproj.CoreCompileInputs.cache
+C:\Users\9966\source\repos\kilometer to meter\kilometer to meter\obj\Debug\kilometer to meter.exe
+C:\Users\9966\source\repos\kilometer to meter\kilometer to meter\obj\Debug\kilometer to meter.pdb

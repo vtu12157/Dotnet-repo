@@ -1,0 +1,8 @@
+C:\Users\9966\source\repos\ps-5 biggest of two\ps-5 biggest of two\bin\Debug\ps-5 biggest of two.exe.config
+C:\Users\9966\source\repos\ps-5 biggest of two\ps-5 biggest of two\bin\Debug\ps-5 biggest of two.exe
+C:\Users\9966\source\repos\ps-5 biggest of two\ps-5 biggest of two\bin\Debug\ps-5 biggest of two.pdb
+C:\Users\9966\source\repos\ps-5 biggest of two\ps-5 biggest of two\obj\Debug\ps-5 biggest of two.csproj.AssemblyReference.cache
+C:\Users\9966\source\repos\ps-5 biggest of two\ps-5 biggest of two\obj\Debug\ps-5 biggest of two.csproj.SuggestedBindingRedirects.cache
+C:\Users\9966\source\repos\ps-5 biggest of two\ps-5 biggest of two\obj\Debug\ps-5 biggest of two.csproj.CoreCompileInputs.cache
+C:\Users\9966\source\repos\ps-5 biggest of two\ps-5 biggest of two\obj\Debug\ps-5 biggest of two.exe
+C:\Users\9966\source\repos\ps-5 biggest of two\ps-5 biggest of two\obj\Debug\ps-5 biggest of two.pdb

@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32804.467
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ps-12 divisible by9", "ps-12 divisible by9\ps-12 divisible by9.csproj", "{929F2680-DD0C-4211-9027-6EE670CCE5D8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{929F2680-DD0C-4211-9027-6EE670CCE5D8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{929F2680-DD0C-4211-9027-6EE670CCE5D8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{929F2680-DD0C-4211-9027-6EE670CCE5D8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{929F2680-DD0C-4211-9027-6EE670CCE5D8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8B296FA1-E417-48EF-BF49-FCD236FE8776}
+	EndGlobalSection
+EndGlobal

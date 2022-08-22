@@ -1,0 +1,8 @@
+C:\Users\9966\source\repos\ps-3 compare charecter\ps-3 compare charecter\bin\Debug\ps-3 compare charecter.exe.config
+C:\Users\9966\source\repos\ps-3 compare charecter\ps-3 compare charecter\bin\Debug\ps-3 compare charecter.exe
+C:\Users\9966\source\repos\ps-3 compare charecter\ps-3 compare charecter\bin\Debug\ps-3 compare charecter.pdb
+C:\Users\9966\source\repos\ps-3 compare charecter\ps-3 compare charecter\obj\Debug\ps-3 compare charecter.csproj.AssemblyReference.cache
+C:\Users\9966\source\repos\ps-3 compare charecter\ps-3 compare charecter\obj\Debug\ps-3 compare charecter.csproj.SuggestedBindingRedirects.cache
+C:\Users\9966\source\repos\ps-3 compare charecter\ps-3 compare charecter\obj\Debug\ps-3 compare charecter.csproj.CoreCompileInputs.cache
+C:\Users\9966\source\repos\ps-3 compare charecter\ps-3 compare charecter\obj\Debug\ps-3 compare charecter.exe
+C:\Users\9966\source\repos\ps-3 compare charecter\ps-3 compare charecter\obj\Debug\ps-3 compare charecter.pdb

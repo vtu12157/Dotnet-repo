@@ -1,0 +1,8 @@
+C:\Users\9966\source\repos\PS-9 sum of odd natural numbers\PS-9 sum of odd natural numbers\bin\Debug\PS-9 sum of odd natural numbers.exe.config
+C:\Users\9966\source\repos\PS-9 sum of odd natural numbers\PS-9 sum of odd natural numbers\bin\Debug\PS-9 sum of odd natural numbers.exe
+C:\Users\9966\source\repos\PS-9 sum of odd natural numbers\PS-9 sum of odd natural numbers\bin\Debug\PS-9 sum of odd natural numbers.pdb
+C:\Users\9966\source\repos\PS-9 sum of odd natural numbers\PS-9 sum of odd natural numbers\obj\Debug\PS-9 sum of odd natural numbers.csproj.AssemblyReference.cache
+C:\Users\9966\source\repos\PS-9 sum of odd natural numbers\PS-9 sum of odd natural numbers\obj\Debug\PS-9 sum of odd natural numbers.csproj.SuggestedBindingRedirects.cache
+C:\Users\9966\source\repos\PS-9 sum of odd natural numbers\PS-9 sum of odd natural numbers\obj\Debug\PS-9 sum of odd natural numbers.csproj.CoreCompileInputs.cache
+C:\Users\9966\source\repos\PS-9 sum of odd natural numbers\PS-9 sum of odd natural numbers\obj\Debug\PS-9 sum of odd natural numbers.exe
+C:\Users\9966\source\repos\PS-9 sum of odd natural numbers\PS-9 sum of odd natural numbers\obj\Debug\PS-9 sum of odd natural numbers.pdb

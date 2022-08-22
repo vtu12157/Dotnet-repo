@@ -1,0 +1,8 @@
+C:\Users\9966\source\repos\Both are positive\Both are positive\bin\Debug\Both are positive.exe.config
+C:\Users\9966\source\repos\Both are positive\Both are positive\bin\Debug\Both are positive.exe
+C:\Users\9966\source\repos\Both are positive\Both are positive\bin\Debug\Both are positive.pdb
+C:\Users\9966\source\repos\Both are positive\Both are positive\obj\Debug\Both are positive.csproj.AssemblyReference.cache
+C:\Users\9966\source\repos\Both are positive\Both are positive\obj\Debug\Both are positive.csproj.SuggestedBindingRedirects.cache
+C:\Users\9966\source\repos\Both are positive\Both are positive\obj\Debug\Both are positive.csproj.CoreCompileInputs.cache
+C:\Users\9966\source\repos\Both are positive\Both are positive\obj\Debug\Both are positive.exe
+C:\Users\9966\source\repos\Both are positive\Both are positive\obj\Debug\Both are positive.pdb

@@ -1,0 +1,8 @@
+C:\Users\9966\source\repos\ps1 to find min and max number\ps1 to find min and max number\bin\Debug\ps1 to find min and max number.exe.config
+C:\Users\9966\source\repos\ps1 to find min and max number\ps1 to find min and max number\bin\Debug\ps1 to find min and max number.exe
+C:\Users\9966\source\repos\ps1 to find min and max number\ps1 to find min and max number\bin\Debug\ps1 to find min and max number.pdb
+C:\Users\9966\source\repos\ps1 to find min and max number\ps1 to find min and max number\obj\Debug\ps1 to find min and max number.csproj.AssemblyReference.cache
+C:\Users\9966\source\repos\ps1 to find min and max number\ps1 to find min and max number\obj\Debug\ps1 to find min and max number.csproj.SuggestedBindingRedirects.cache
+C:\Users\9966\source\repos\ps1 to find min and max number\ps1 to find min and max number\obj\Debug\ps1 to find min and max number.csproj.CoreCompileInputs.cache
+C:\Users\9966\source\repos\ps1 to find min and max number\ps1 to find min and max number\obj\Debug\ps1 to find min and max number.exe
+C:\Users\9966\source\repos\ps1 to find min and max number\ps1 to find min and max number\obj\Debug\ps1 to find min and max number.pdb

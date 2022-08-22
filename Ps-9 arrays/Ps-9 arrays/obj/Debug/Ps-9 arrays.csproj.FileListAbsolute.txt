@@ -1,0 +1,3 @@
+C:\Users\9966\source\repos\Ps-9 arrays\Ps-9 arrays\obj\Debug\Ps-9 arrays.csproj.AssemblyReference.cache
+C:\Users\9966\source\repos\Ps-9 arrays\Ps-9 arrays\obj\Debug\Ps-9 arrays.csproj.SuggestedBindingRedirects.cache
+C:\Users\9966\source\repos\Ps-9 arrays\Ps-9 arrays\obj\Debug\Ps-9 arrays.csproj.CoreCompileInputs.cache

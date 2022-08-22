@@ -1,0 +1,8 @@
+C:\Users\9966\source\repos\Ps-2 Greatest of three numbers\Ps-2 Greatest of three numbers\bin\Debug\Ps-2 Greatest of three numbers.exe.config
+C:\Users\9966\source\repos\Ps-2 Greatest of three numbers\Ps-2 Greatest of three numbers\bin\Debug\Ps-2 Greatest of three numbers.exe
+C:\Users\9966\source\repos\Ps-2 Greatest of three numbers\Ps-2 Greatest of three numbers\bin\Debug\Ps-2 Greatest of three numbers.pdb
+C:\Users\9966\source\repos\Ps-2 Greatest of three numbers\Ps-2 Greatest of three numbers\obj\Debug\Ps-2 Greatest of three numbers.csproj.AssemblyReference.cache
+C:\Users\9966\source\repos\Ps-2 Greatest of three numbers\Ps-2 Greatest of three numbers\obj\Debug\Ps-2 Greatest of three numbers.csproj.SuggestedBindingRedirects.cache
+C:\Users\9966\source\repos\Ps-2 Greatest of three numbers\Ps-2 Greatest of three numbers\obj\Debug\Ps-2 Greatest of three numbers.csproj.CoreCompileInputs.cache
+C:\Users\9966\source\repos\Ps-2 Greatest of three numbers\Ps-2 Greatest of three numbers\obj\Debug\Ps-2 Greatest of three numbers.exe
+C:\Users\9966\source\repos\Ps-2 Greatest of three numbers\Ps-2 Greatest of three numbers\obj\Debug\Ps-2 Greatest of three numbers.pdb

@@ -1,0 +1,8 @@
+C:\Users\9966\source\repos\multiplication of 3 numbers\multiplication of 3 numbers\bin\Debug\multiplication of 3 numbers.exe.config
+C:\Users\9966\source\repos\multiplication of 3 numbers\multiplication of 3 numbers\bin\Debug\multiplication of 3 numbers.exe
+C:\Users\9966\source\repos\multiplication of 3 numbers\multiplication of 3 numbers\bin\Debug\multiplication of 3 numbers.pdb
+C:\Users\9966\source\repos\multiplication of 3 numbers\multiplication of 3 numbers\obj\Debug\multiplication of 3 numbers.csproj.AssemblyReference.cache
+C:\Users\9966\source\repos\multiplication of 3 numbers\multiplication of 3 numbers\obj\Debug\multiplication of 3 numbers.csproj.SuggestedBindingRedirects.cache
+C:\Users\9966\source\repos\multiplication of 3 numbers\multiplication of 3 numbers\obj\Debug\multiplication of 3 numbers.csproj.CoreCompileInputs.cache
+C:\Users\9966\source\repos\multiplication of 3 numbers\multiplication of 3 numbers\obj\Debug\multiplication of 3 numbers.exe
+C:\Users\9966\source\repos\multiplication of 3 numbers\multiplication of 3 numbers\obj\Debug\multiplication of 3 numbers.pdb

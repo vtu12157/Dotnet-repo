@@ -1,0 +1,8 @@
+C:\Users\9966\source\repos\ps-12 divisible by9\ps-12 divisible by9\bin\Debug\ps-12 divisible by9.exe.config
+C:\Users\9966\source\repos\ps-12 divisible by9\ps-12 divisible by9\bin\Debug\ps-12 divisible by9.exe
+C:\Users\9966\source\repos\ps-12 divisible by9\ps-12 divisible by9\bin\Debug\ps-12 divisible by9.pdb
+C:\Users\9966\source\repos\ps-12 divisible by9\ps-12 divisible by9\obj\Debug\ps-12 divisible by9.csproj.AssemblyReference.cache
+C:\Users\9966\source\repos\ps-12 divisible by9\ps-12 divisible by9\obj\Debug\ps-12 divisible by9.csproj.SuggestedBindingRedirects.cache
+C:\Users\9966\source\repos\ps-12 divisible by9\ps-12 divisible by9\obj\Debug\ps-12 divisible by9.csproj.CoreCompileInputs.cache
+C:\Users\9966\source\repos\ps-12 divisible by9\ps-12 divisible by9\obj\Debug\ps-12 divisible by9.exe
+C:\Users\9966\source\repos\ps-12 divisible by9\ps-12 divisible by9\obj\Debug\ps-12 divisible by9.pdb

@@ -1,0 +1,8 @@
+C:\Users\9966\source\repos\meter to kilometer\meter to kilometer\bin\Debug\meter to kilometer.exe.config
+C:\Users\9966\source\repos\meter to kilometer\meter to kilometer\bin\Debug\meter to kilometer.exe
+C:\Users\9966\source\repos\meter to kilometer\meter to kilometer\bin\Debug\meter to kilometer.pdb
+C:\Users\9966\source\repos\meter to kilometer\meter to kilometer\obj\Debug\meter to kilometer.csproj.AssemblyReference.cache
+C:\Users\9966\source\repos\meter to kilometer\meter to kilometer\obj\Debug\meter to kilometer.csproj.SuggestedBindingRedirects.cache
+C:\Users\9966\source\repos\meter to kilometer\meter to kilometer\obj\Debug\meter to kilometer.csproj.CoreCompileInputs.cache
+C:\Users\9966\source\repos\meter to kilometer\meter to kilometer\obj\Debug\meter to kilometer.exe
+C:\Users\9966\source\repos\meter to kilometer\meter to kilometer\obj\Debug\meter to kilometer.pdb

@@ -1,0 +1,8 @@
+C:\Users\9966\source\repos\ps10 reverse the num\ps10 reverse the num\bin\Debug\ps10 reverse the num.exe.config
+C:\Users\9966\source\repos\ps10 reverse the num\ps10 reverse the num\bin\Debug\ps10 reverse the num.exe
+C:\Users\9966\source\repos\ps10 reverse the num\ps10 reverse the num\bin\Debug\ps10 reverse the num.pdb
+C:\Users\9966\source\repos\ps10 reverse the num\ps10 reverse the num\obj\Debug\ps10 reverse the num.csproj.AssemblyReference.cache
+C:\Users\9966\source\repos\ps10 reverse the num\ps10 reverse the num\obj\Debug\ps10 reverse the num.csproj.SuggestedBindingRedirects.cache
+C:\Users\9966\source\repos\ps10 reverse the num\ps10 reverse the num\obj\Debug\ps10 reverse the num.csproj.CoreCompileInputs.cache
+C:\Users\9966\source\repos\ps10 reverse the num\ps10 reverse the num\obj\Debug\ps10 reverse the num.exe
+C:\Users\9966\source\repos\ps10 reverse the num\ps10 reverse the num\obj\Debug\ps10 reverse the num.pdb

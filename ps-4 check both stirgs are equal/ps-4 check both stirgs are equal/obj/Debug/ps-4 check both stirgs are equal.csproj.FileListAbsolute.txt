@@ -1,0 +1,8 @@
+C:\Users\9966\source\repos\ps-4 check both stirgs are equal\ps-4 check both stirgs are equal\bin\Debug\ps-4 check both stirgs are equal.exe.config
+C:\Users\9966\source\repos\ps-4 check both stirgs are equal\ps-4 check both stirgs are equal\bin\Debug\ps-4 check both stirgs are equal.exe
+C:\Users\9966\source\repos\ps-4 check both stirgs are equal\ps-4 check both stirgs are equal\bin\Debug\ps-4 check both stirgs are equal.pdb
+C:\Users\9966\source\repos\ps-4 check both stirgs are equal\ps-4 check both stirgs are equal\obj\Debug\ps-4 check both stirgs are equal.csproj.AssemblyReference.cache
+C:\Users\9966\source\repos\ps-4 check both stirgs are equal\ps-4 check both stirgs are equal\obj\Debug\ps-4 check both stirgs are equal.csproj.SuggestedBindingRedirects.cache
+C:\Users\9966\source\repos\ps-4 check both stirgs are equal\ps-4 check both stirgs are equal\obj\Debug\ps-4 check both stirgs are equal.csproj.CoreCompileInputs.cache
+C:\Users\9966\source\repos\ps-4 check both stirgs are equal\ps-4 check both stirgs are equal\obj\Debug\ps-4 check both stirgs are equal.exe
+C:\Users\9966\source\repos\ps-4 check both stirgs are equal\ps-4 check both stirgs are equal\obj\Debug\ps-4 check both stirgs are equal.pdb
