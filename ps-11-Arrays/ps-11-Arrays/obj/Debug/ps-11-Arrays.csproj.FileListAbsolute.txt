@@ -1,0 +1,8 @@
+C:\Users\9966\source\repos\ps-11-Arrays\ps-11-Arrays\bin\Debug\ps-11-Arrays.exe.config
+C:\Users\9966\source\repos\ps-11-Arrays\ps-11-Arrays\bin\Debug\ps-11-Arrays.exe
+C:\Users\9966\source\repos\ps-11-Arrays\ps-11-Arrays\bin\Debug\ps-11-Arrays.pdb
+C:\Users\9966\source\repos\ps-11-Arrays\ps-11-Arrays\obj\Debug\ps-11-Arrays.csproj.AssemblyReference.cache
+C:\Users\9966\source\repos\ps-11-Arrays\ps-11-Arrays\obj\Debug\ps-11-Arrays.csproj.SuggestedBindingRedirects.cache
+C:\Users\9966\source\repos\ps-11-Arrays\ps-11-Arrays\obj\Debug\ps-11-Arrays.csproj.CoreCompileInputs.cache
+C:\Users\9966\source\repos\ps-11-Arrays\ps-11-Arrays\obj\Debug\ps-11-Arrays.exe
+C:\Users\9966\source\repos\ps-11-Arrays\ps-11-Arrays\obj\Debug\ps-11-Arrays.pdb

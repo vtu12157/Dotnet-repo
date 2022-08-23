@@ -1,4 +1,5 @@
 ﻿using System;
+using System.Collections;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -10,37 +11,27 @@ namespace Ps_9_arrays
     {
         static void Main(string[] args)
         {
-            using System;
-            using System.Collections.Generic;
-namespace prob6
-    {
-        internal class Program
-        {
 
-            static void Main(string[] args)
-            {
-                Stack<int> st = new Stack<int>();
+            var fltlist = new ArrayList();
+            fltlist.Add(3.5);
+            fltlist.Add(4.9);
+            fltlist.Add(8.5);
+            fltlist.Add(6.5);
+            fltlist.Sort();
 
-                st.Push(10);
-                st.Push(205);
-                st.Push(300);
-                st.Push(400);
-                st.Push(500);
-                Console.WriteLine($"No.of.elements in stack: {st.Count}");
-                Console.WriteLine("STACK ELEMENTS");
-                foreach (var item in st)
-                {
-                    Console.WriteLine(item + '\t');
-                }
-                Console.WriteLine($"top element:{st.Peek()}");
-                st.Pop();
-                st.Pop();
-                Console.WriteLine($"top element:{st.Peek()}");
-                Console.ReadLine();
-            }
+            foreach (var val in fltlist)
+                Console.WriteLine(val);
+            Console.WriteLine("\n descending order is:");
+            fltlist.Reverse();
+
+            foreach (var val in fltlist)
+                Console.WriteLine(val);
+
+
+            Console.ReadLine();
         }
     }
 
 }
-    }
-}
+    
+

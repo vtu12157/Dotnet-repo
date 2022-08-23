@@ -1,0 +1,8 @@
+C:\Users\9966\source\repos\ps-10-arrays\ps-10-arrays\bin\Debug\ps-10-arrays.exe.config
+C:\Users\9966\source\repos\ps-10-arrays\ps-10-arrays\bin\Debug\ps-10-arrays.exe
+C:\Users\9966\source\repos\ps-10-arrays\ps-10-arrays\bin\Debug\ps-10-arrays.pdb
+C:\Users\9966\source\repos\ps-10-arrays\ps-10-arrays\obj\Debug\ps-10-arrays.csproj.AssemblyReference.cache
+C:\Users\9966\source\repos\ps-10-arrays\ps-10-arrays\obj\Debug\ps-10-arrays.csproj.SuggestedBindingRedirects.cache
+C:\Users\9966\source\repos\ps-10-arrays\ps-10-arrays\obj\Debug\ps-10-arrays.csproj.CoreCompileInputs.cache
+C:\Users\9966\source\repos\ps-10-arrays\ps-10-arrays\obj\Debug\ps-10-arrays.exe
+C:\Users\9966\source\repos\ps-10-arrays\ps-10-arrays\obj\Debug\ps-10-arrays.pdb
