@@ -6,3 +6,11 @@ C:\Users\9966\source\repos1\PS-1 structures\PS-1 structures\bin\Debug\PS-1 struc
 C:\Users\9966\source\repos1\PS-1 structures\PS-1 structures\bin\Debug\PS-1 structures.pdb
 C:\Users\9966\source\repos1\PS-1 structures\PS-1 structures\obj\Debug\PS-1 structures.exe
 C:\Users\9966\source\repos1\PS-1 structures\PS-1 structures\obj\Debug\PS-1 structures.pdb
+C:\Users\9966\source\repos1\Dotnet-repo\PS-1 structures\PS-1 structures\bin\Debug\PS-1 structures.exe.config
+C:\Users\9966\source\repos1\Dotnet-repo\PS-1 structures\PS-1 structures\bin\Debug\PS-1 structures.exe
+C:\Users\9966\source\repos1\Dotnet-repo\PS-1 structures\PS-1 structures\bin\Debug\PS-1 structures.pdb
+C:\Users\9966\source\repos1\Dotnet-repo\PS-1 structures\PS-1 structures\obj\Debug\PS-1 structures.csproj.AssemblyReference.cache
+C:\Users\9966\source\repos1\Dotnet-repo\PS-1 structures\PS-1 structures\obj\Debug\PS-1 structures.csproj.SuggestedBindingRedirects.cache
+C:\Users\9966\source\repos1\Dotnet-repo\PS-1 structures\PS-1 structures\obj\Debug\PS-1 structures.csproj.CoreCompileInputs.cache
+C:\Users\9966\source\repos1\Dotnet-repo\PS-1 structures\PS-1 structures\obj\Debug\PS-1 structures.exe
+C:\Users\9966\source\repos1\Dotnet-repo\PS-1 structures\PS-1 structures\obj\Debug\PS-1 structures.pdb

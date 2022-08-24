@@ -9,16 +9,22 @@ namespace PS_1_structures
 {
     internal class Program
     {
+      public static void Addition(out int result,int a,int b)
+        {
+            result = a + b;
+        }
         static void Main(string[] args)
         {
             int a, b,c;
+
+            
             Console.Write("Enter first number:");
             a=Convert.ToInt32(Console.ReadLine());
 
             Console.Write("Enter Second number:");
             b=Convert.ToInt32(Console.ReadLine());
 
-            c = a+b;
+             Addition(out c,a,b);
             Console.WriteLine("Addition of the numbers is:" + c);
             Console.ReadLine();
 
