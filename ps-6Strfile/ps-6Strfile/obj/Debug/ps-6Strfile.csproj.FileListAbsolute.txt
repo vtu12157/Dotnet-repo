@@ -1,0 +1,8 @@
+C:\Users\9966\source\repos1\ps-6Strfile\ps-6Strfile\bin\Debug\ps-6Strfile.exe.config
+C:\Users\9966\source\repos1\ps-6Strfile\ps-6Strfile\bin\Debug\ps-6Strfile.exe
+C:\Users\9966\source\repos1\ps-6Strfile\ps-6Strfile\bin\Debug\ps-6Strfile.pdb
+C:\Users\9966\source\repos1\ps-6Strfile\ps-6Strfile\obj\Debug\ps-6Strfile.csproj.AssemblyReference.cache
+C:\Users\9966\source\repos1\ps-6Strfile\ps-6Strfile\obj\Debug\ps-6Strfile.csproj.SuggestedBindingRedirects.cache
+C:\Users\9966\source\repos1\ps-6Strfile\ps-6Strfile\obj\Debug\ps-6Strfile.csproj.CoreCompileInputs.cache
+C:\Users\9966\source\repos1\ps-6Strfile\ps-6Strfile\obj\Debug\ps-6Strfile.exe
+C:\Users\9966\source\repos1\ps-6Strfile\ps-6Strfile\obj\Debug\ps-6Strfile.pdb

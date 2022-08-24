@@ -1,0 +1,11 @@
+C:\Users\9966\source\repos1\File handling\File handling\bin\Debug\File handling.exe.config
+C:\Users\9966\source\repos1\File handling\File handling\bin\Debug\File handling.exe
+C:\Users\9966\source\repos1\File handling\File handling\bin\Debug\File handling.pdb
+C:\Users\9966\source\repos1\File handling\File handling\obj\Debug\File handling.csproj.AssemblyReference.cache
+C:\Users\9966\source\repos1\File handling\File handling\obj\Debug\File handling.csproj.SuggestedBindingRedirects.cache
+C:\Users\9966\source\repos1\File handling\File handling\obj\Debug\File handling.csproj.CoreCompileInputs.cache
+C:\Users\9966\source\repos1\File handling\File handling\obj\Debug\File handling.exe
+C:\Users\9966\source\repos1\File handling\File handling\obj\Debug\File handling.pdb
+C:\Users\9966\source\repos1\File handling\File handling\bin\Debug\FInallogicoftheapp.dll
+C:\Users\9966\source\repos1\File handling\File handling\bin\Debug\FInallogicoftheapp.pdb
+C:\Users\9966\source\repos1\File handling\File handling\obj\Debug\File handling.csproj.CopyComplete

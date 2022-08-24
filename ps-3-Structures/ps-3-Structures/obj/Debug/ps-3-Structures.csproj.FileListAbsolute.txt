@@ -1,0 +1,8 @@
+C:\Users\9966\source\repos1\ps-3-Structures\ps-3-Structures\bin\Debug\ps-3-Structures.exe.config
+C:\Users\9966\source\repos1\ps-3-Structures\ps-3-Structures\bin\Debug\ps-3-Structures.exe
+C:\Users\9966\source\repos1\ps-3-Structures\ps-3-Structures\bin\Debug\ps-3-Structures.pdb
+C:\Users\9966\source\repos1\ps-3-Structures\ps-3-Structures\obj\Debug\ps-3-Structures.csproj.AssemblyReference.cache
+C:\Users\9966\source\repos1\ps-3-Structures\ps-3-Structures\obj\Debug\ps-3-Structures.csproj.SuggestedBindingRedirects.cache
+C:\Users\9966\source\repos1\ps-3-Structures\ps-3-Structures\obj\Debug\ps-3-Structures.csproj.CoreCompileInputs.cache
+C:\Users\9966\source\repos1\ps-3-Structures\ps-3-Structures\obj\Debug\ps-3-Structures.exe
+C:\Users\9966\source\repos1\ps-3-Structures\ps-3-Structures\obj\Debug\ps-3-Structures.pdb

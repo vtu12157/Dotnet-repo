@@ -1,0 +1,11 @@
+C:\Users\9966\source\repos1\Myapp\Myapp\bin\Debug\Myapp.exe.config
+C:\Users\9966\source\repos1\Myapp\Myapp\bin\Debug\Myapp.exe
+C:\Users\9966\source\repos1\Myapp\Myapp\bin\Debug\Myapp.pdb
+C:\Users\9966\source\repos1\Myapp\Myapp\obj\Debug\Myapp.csproj.AssemblyReference.cache
+C:\Users\9966\source\repos1\Myapp\Myapp\obj\Debug\Myapp.csproj.SuggestedBindingRedirects.cache
+C:\Users\9966\source\repos1\Myapp\Myapp\obj\Debug\Myapp.csproj.CoreCompileInputs.cache
+C:\Users\9966\source\repos1\Myapp\Myapp\obj\Debug\Myapp.exe
+C:\Users\9966\source\repos1\Myapp\Myapp\obj\Debug\Myapp.pdb
+C:\Users\9966\source\repos1\Myapp\Myapp\bin\Debug\Reusablecode.dll
+C:\Users\9966\source\repos1\Myapp\Myapp\bin\Debug\Reusablecode.pdb
+C:\Users\9966\source\repos1\Myapp\Myapp\obj\Debug\Myapp.csproj.CopyComplete

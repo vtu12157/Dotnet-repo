@@ -1,0 +1,8 @@
+C:\Users\9966\source\repos1\Ps-3Indexof\Ps-3Indexof\bin\Debug\Ps-3Indexof.exe.config
+C:\Users\9966\source\repos1\Ps-3Indexof\Ps-3Indexof\bin\Debug\Ps-3Indexof.exe
+C:\Users\9966\source\repos1\Ps-3Indexof\Ps-3Indexof\bin\Debug\Ps-3Indexof.pdb
+C:\Users\9966\source\repos1\Ps-3Indexof\Ps-3Indexof\obj\Debug\Ps-3Indexof.csproj.AssemblyReference.cache
+C:\Users\9966\source\repos1\Ps-3Indexof\Ps-3Indexof\obj\Debug\Ps-3Indexof.csproj.SuggestedBindingRedirects.cache
+C:\Users\9966\source\repos1\Ps-3Indexof\Ps-3Indexof\obj\Debug\Ps-3Indexof.csproj.CoreCompileInputs.cache
+C:\Users\9966\source\repos1\Ps-3Indexof\Ps-3Indexof\obj\Debug\Ps-3Indexof.exe
+C:\Users\9966\source\repos1\Ps-3Indexof\Ps-3Indexof\obj\Debug\Ps-3Indexof.pdb

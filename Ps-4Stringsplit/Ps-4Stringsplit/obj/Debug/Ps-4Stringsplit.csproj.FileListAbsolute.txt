@@ -1,0 +1,8 @@
+C:\Users\9966\source\repos1\Ps-4Stringsplit\Ps-4Stringsplit\bin\Debug\Ps-4Stringsplit.exe.config
+C:\Users\9966\source\repos1\Ps-4Stringsplit\Ps-4Stringsplit\bin\Debug\Ps-4Stringsplit.exe
+C:\Users\9966\source\repos1\Ps-4Stringsplit\Ps-4Stringsplit\bin\Debug\Ps-4Stringsplit.pdb
+C:\Users\9966\source\repos1\Ps-4Stringsplit\Ps-4Stringsplit\obj\Debug\Ps-4Stringsplit.csproj.AssemblyReference.cache
+C:\Users\9966\source\repos1\Ps-4Stringsplit\Ps-4Stringsplit\obj\Debug\Ps-4Stringsplit.csproj.SuggestedBindingRedirects.cache
+C:\Users\9966\source\repos1\Ps-4Stringsplit\Ps-4Stringsplit\obj\Debug\Ps-4Stringsplit.csproj.CoreCompileInputs.cache
+C:\Users\9966\source\repos1\Ps-4Stringsplit\Ps-4Stringsplit\obj\Debug\Ps-4Stringsplit.exe
+C:\Users\9966\source\repos1\Ps-4Stringsplit\Ps-4Stringsplit\obj\Debug\Ps-4Stringsplit.pdb

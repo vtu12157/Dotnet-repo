@@ -13,7 +13,7 @@ namespace Ps_12_arrays
             int[] numarr = { 10, 54, 87, 69, 78, 89 };
 
             Console.WriteLine("Minimal num is:"+ numarr.Min());
-            Console.WriteLine("Maximum num is:" + numarr.Max());
+            Console.WriteLine("Maximum num is:" + numarr.Max());//
             Console.ReadLine();
         }
     }
