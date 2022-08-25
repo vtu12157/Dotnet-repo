@@ -1,0 +1,8 @@
+C:\Users\9966\source\repos1\Dotnet-repo\Ps-6Structs\Ps-6Structs\bin\Debug\Ps-6Structs.exe.config
+C:\Users\9966\source\repos1\Dotnet-repo\Ps-6Structs\Ps-6Structs\bin\Debug\Ps-6Structs.exe
+C:\Users\9966\source\repos1\Dotnet-repo\Ps-6Structs\Ps-6Structs\bin\Debug\Ps-6Structs.pdb
+C:\Users\9966\source\repos1\Dotnet-repo\Ps-6Structs\Ps-6Structs\obj\Debug\Ps-6Structs.csproj.AssemblyReference.cache
+C:\Users\9966\source\repos1\Dotnet-repo\Ps-6Structs\Ps-6Structs\obj\Debug\Ps-6Structs.csproj.SuggestedBindingRedirects.cache
+C:\Users\9966\source\repos1\Dotnet-repo\Ps-6Structs\Ps-6Structs\obj\Debug\Ps-6Structs.csproj.CoreCompileInputs.cache
+C:\Users\9966\source\repos1\Dotnet-repo\Ps-6Structs\Ps-6Structs\obj\Debug\Ps-6Structs.exe
+C:\Users\9966\source\repos1\Dotnet-repo\Ps-6Structs\Ps-6Structs\obj\Debug\Ps-6Structs.pdb

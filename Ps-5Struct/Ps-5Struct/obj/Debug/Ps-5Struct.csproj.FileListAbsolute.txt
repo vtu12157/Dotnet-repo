@@ -1,0 +1,8 @@
+C:\Users\9966\source\repos1\Dotnet-repo\Ps-5Struct\Ps-5Struct\bin\Debug\Ps-5Struct.exe.config
+C:\Users\9966\source\repos1\Dotnet-repo\Ps-5Struct\Ps-5Struct\bin\Debug\Ps-5Struct.exe
+C:\Users\9966\source\repos1\Dotnet-repo\Ps-5Struct\Ps-5Struct\bin\Debug\Ps-5Struct.pdb
+C:\Users\9966\source\repos1\Dotnet-repo\Ps-5Struct\Ps-5Struct\obj\Debug\Ps-5Struct.csproj.AssemblyReference.cache
+C:\Users\9966\source\repos1\Dotnet-repo\Ps-5Struct\Ps-5Struct\obj\Debug\Ps-5Struct.csproj.SuggestedBindingRedirects.cache
+C:\Users\9966\source\repos1\Dotnet-repo\Ps-5Struct\Ps-5Struct\obj\Debug\Ps-5Struct.csproj.CoreCompileInputs.cache
+C:\Users\9966\source\repos1\Dotnet-repo\Ps-5Struct\Ps-5Struct\obj\Debug\Ps-5Struct.exe
+C:\Users\9966\source\repos1\Dotnet-repo\Ps-5Struct\Ps-5Struct\obj\Debug\Ps-5Struct.pdb

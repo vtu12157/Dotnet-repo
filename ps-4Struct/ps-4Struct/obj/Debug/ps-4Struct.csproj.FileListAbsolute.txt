@@ -1,0 +1,8 @@
+C:\Users\9966\source\repos1\ps-4Struct\ps-4Struct\bin\Debug\ps-4Struct.exe.config
+C:\Users\9966\source\repos1\ps-4Struct\ps-4Struct\bin\Debug\ps-4Struct.exe
+C:\Users\9966\source\repos1\ps-4Struct\ps-4Struct\bin\Debug\ps-4Struct.pdb
+C:\Users\9966\source\repos1\ps-4Struct\ps-4Struct\obj\Debug\ps-4Struct.csproj.AssemblyReference.cache
+C:\Users\9966\source\repos1\ps-4Struct\ps-4Struct\obj\Debug\ps-4Struct.csproj.SuggestedBindingRedirects.cache
+C:\Users\9966\source\repos1\ps-4Struct\ps-4Struct\obj\Debug\ps-4Struct.csproj.CoreCompileInputs.cache
+C:\Users\9966\source\repos1\ps-4Struct\ps-4Struct\obj\Debug\ps-4Struct.exe
+C:\Users\9966\source\repos1\ps-4Struct\ps-4Struct\obj\Debug\ps-4Struct.pdb
