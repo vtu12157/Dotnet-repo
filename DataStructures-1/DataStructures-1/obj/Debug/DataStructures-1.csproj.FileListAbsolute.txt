@@ -1,0 +1,11 @@
+C:\Users\9966\source\repos1\Dotnet-repo\DataStructures-1\DataStructures-1\obj\Debug\DataStructures-1.csproj.AssemblyReference.cache
+C:\Users\9966\source\repos1\Dotnet-repo\DataStructures-1\DataStructures-1\obj\Debug\DataStructures-1.csproj.SuggestedBindingRedirects.cache
+C:\Users\9966\source\repos1\Dotnet-repo\DataStructures-1\DataStructures-1\obj\Debug\DataStructures-1.csproj.CoreCompileInputs.cache
+C:\Users\9966\source\repos1\Dotnet-repo\DataStructures-1\DataStructures-1\bin\Debug\DataStructures-1.exe.config
+C:\Users\9966\source\repos1\Dotnet-repo\DataStructures-1\DataStructures-1\bin\Debug\DataStructures-1.exe
+C:\Users\9966\source\repos1\Dotnet-repo\DataStructures-1\DataStructures-1\bin\Debug\DataStructures-1.pdb
+C:\Users\9966\source\repos1\Dotnet-repo\DataStructures-1\DataStructures-1\obj\Debug\DataStructures-1.exe
+C:\Users\9966\source\repos1\Dotnet-repo\DataStructures-1\DataStructures-1\obj\Debug\DataStructures-1.pdb
+C:\Users\9966\source\repos1\Dotnet-repo\DataStructures-1\DataStructures-1\bin\Debug\Datastructures-lib.dll
+C:\Users\9966\source\repos1\Dotnet-repo\DataStructures-1\DataStructures-1\bin\Debug\Datastructures-lib.pdb
+C:\Users\9966\source\repos1\Dotnet-repo\DataStructures-1\DataStructures-1\obj\Debug\DataStructures-1.csproj.CopyComplete

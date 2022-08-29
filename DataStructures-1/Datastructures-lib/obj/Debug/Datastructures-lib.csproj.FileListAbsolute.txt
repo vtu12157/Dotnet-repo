@@ -1,0 +1,6 @@
+C:\Users\9966\source\repos1\Dotnet-repo\DataStructures-1\Datastructures-lib\bin\Debug\Datastructures-lib.pdb
+C:\Users\9966\source\repos1\Dotnet-repo\DataStructures-1\Datastructures-lib\obj\Debug\Datastructures-lib.csproj.AssemblyReference.cache
+C:\Users\9966\source\repos1\Dotnet-repo\DataStructures-1\Datastructures-lib\obj\Debug\Datastructures-lib.csproj.CoreCompileInputs.cache
+C:\Users\9966\source\repos1\Dotnet-repo\DataStructures-1\Datastructures-lib\obj\Debug\Datastructures-lib.dll
+C:\Users\9966\source\repos1\Dotnet-repo\DataStructures-1\Datastructures-lib\obj\Debug\Datastructures-lib.pdb
+C:\Users\9966\source\repos1\Dotnet-repo\DataStructures-1\Datastructures-lib\bin\Debug\Datastructures-lib.dll
