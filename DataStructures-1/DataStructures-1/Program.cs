@@ -3,6 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
+using Datastructures_lib;
 using Datastructureslib;
 
 namespace DataStructures_1
@@ -42,9 +43,13 @@ namespace DataStructures_1
                 Console.WriteLine(item.City);
                 Console.WriteLine(item.GrossSalary);
                 Console.ReadLine();
+
             }
+
+
 
 
         }
     }
 }
+
