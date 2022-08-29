@@ -1,0 +1,8 @@
+C:\Users\9966\source\repos1\Dotnet-repo\DSLinkedlist\DSLinkedlist\obj\Debug\DSLinkedlist.csproj.AssemblyReference.cache
+C:\Users\9966\source\repos1\Dotnet-repo\DSLinkedlist\DSLinkedlist\obj\Debug\DSLinkedlist.csproj.SuggestedBindingRedirects.cache
+C:\Users\9966\source\repos1\Dotnet-repo\DSLinkedlist\DSLinkedlist\obj\Debug\DSLinkedlist.csproj.CoreCompileInputs.cache
+C:\Users\9966\source\repos1\Dotnet-repo\DSLinkedlist\DSLinkedlist\bin\Debug\DSLinkedlist.exe.config
+C:\Users\9966\source\repos1\Dotnet-repo\DSLinkedlist\DSLinkedlist\bin\Debug\DSLinkedlist.exe
+C:\Users\9966\source\repos1\Dotnet-repo\DSLinkedlist\DSLinkedlist\bin\Debug\DSLinkedlist.pdb
+C:\Users\9966\source\repos1\Dotnet-repo\DSLinkedlist\DSLinkedlist\obj\Debug\DSLinkedlist.exe
+C:\Users\9966\source\repos1\Dotnet-repo\DSLinkedlist\DSLinkedlist\obj\Debug\DSLinkedlist.pdb
