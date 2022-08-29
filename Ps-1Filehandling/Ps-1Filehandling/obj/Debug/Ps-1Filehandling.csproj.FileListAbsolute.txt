@@ -1,0 +1,8 @@
+C:\Users\9966\source\repos1\Dotnet-repo\Ps-1Filehandling\Ps-1Filehandling\bin\Debug\Ps-1Filehandling.exe.config
+C:\Users\9966\source\repos1\Dotnet-repo\Ps-1Filehandling\Ps-1Filehandling\bin\Debug\Ps-1Filehandling.exe
+C:\Users\9966\source\repos1\Dotnet-repo\Ps-1Filehandling\Ps-1Filehandling\bin\Debug\Ps-1Filehandling.pdb
+C:\Users\9966\source\repos1\Dotnet-repo\Ps-1Filehandling\Ps-1Filehandling\obj\Debug\Ps-1Filehandling.csproj.AssemblyReference.cache
+C:\Users\9966\source\repos1\Dotnet-repo\Ps-1Filehandling\Ps-1Filehandling\obj\Debug\Ps-1Filehandling.csproj.SuggestedBindingRedirects.cache
+C:\Users\9966\source\repos1\Dotnet-repo\Ps-1Filehandling\Ps-1Filehandling\obj\Debug\Ps-1Filehandling.csproj.CoreCompileInputs.cache
+C:\Users\9966\source\repos1\Dotnet-repo\Ps-1Filehandling\Ps-1Filehandling\obj\Debug\Ps-1Filehandling.exe
+C:\Users\9966\source\repos1\Dotnet-repo\Ps-1Filehandling\Ps-1Filehandling\obj\Debug\Ps-1Filehandling.pdb

@@ -1,0 +1,6 @@
+C:\Users\9966\source\repos1\Dotnet-repo\DatastructuresPs-1\libraryfrmwrk\bin\Debug\libraryfrmwrk.dll
+C:\Users\9966\source\repos1\Dotnet-repo\DatastructuresPs-1\libraryfrmwrk\bin\Debug\libraryfrmwrk.pdb
+C:\Users\9966\source\repos1\Dotnet-repo\DatastructuresPs-1\libraryfrmwrk\obj\Debug\libraryfrmwrk.csproj.AssemblyReference.cache
+C:\Users\9966\source\repos1\Dotnet-repo\DatastructuresPs-1\libraryfrmwrk\obj\Debug\libraryfrmwrk.csproj.CoreCompileInputs.cache
+C:\Users\9966\source\repos1\Dotnet-repo\DatastructuresPs-1\libraryfrmwrk\obj\Debug\libraryfrmwrk.dll
+C:\Users\9966\source\repos1\Dotnet-repo\DatastructuresPs-1\libraryfrmwrk\obj\Debug\libraryfrmwrk.pdb
