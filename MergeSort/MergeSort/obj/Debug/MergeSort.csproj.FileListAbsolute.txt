@@ -1,0 +1,8 @@
+C:\Users\9966\source\repos1\Dotnet-repo\MergeSort\MergeSort\bin\Debug\MergeSort.exe.config
+C:\Users\9966\source\repos1\Dotnet-repo\MergeSort\MergeSort\bin\Debug\MergeSort.exe
+C:\Users\9966\source\repos1\Dotnet-repo\MergeSort\MergeSort\bin\Debug\MergeSort.pdb
+C:\Users\9966\source\repos1\Dotnet-repo\MergeSort\MergeSort\obj\Debug\MergeSort.csproj.AssemblyReference.cache
+C:\Users\9966\source\repos1\Dotnet-repo\MergeSort\MergeSort\obj\Debug\MergeSort.csproj.SuggestedBindingRedirects.cache
+C:\Users\9966\source\repos1\Dotnet-repo\MergeSort\MergeSort\obj\Debug\MergeSort.csproj.CoreCompileInputs.cache
+C:\Users\9966\source\repos1\Dotnet-repo\MergeSort\MergeSort\obj\Debug\MergeSort.exe
+C:\Users\9966\source\repos1\Dotnet-repo\MergeSort\MergeSort\obj\Debug\MergeSort.pdb
