@@ -1,0 +1,41 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32804.467
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OOPSConcept", "OOPSConcept\OOPSConcept.csproj", "{ED3AF465-D640-44D6-8793-7172E3E273B8}"
+	ProjectSection(ProjectDependencies) = postProject
+		{570B29C5-5A62-49BB-8066-B307B9A95FA8} = {570B29C5-5A62-49BB-8066-B307B9A95FA8}
+		{9D29EEB4-C300-4DF4-B5FB-E8F2882CCF82} = {9D29EEB4-C300-4DF4-B5FB-E8F2882CCF82}
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HRLibrary", "HRLibrary\HRLibrary.csproj", "{9D29EEB4-C300-4DF4-B5FB-E8F2882CCF82}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HRLib", "HRLib\HRLib.csproj", "{570B29C5-5A62-49BB-8066-B307B9A95FA8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{ED3AF465-D640-44D6-8793-7172E3E273B8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ED3AF465-D640-44D6-8793-7172E3E273B8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ED3AF465-D640-44D6-8793-7172E3E273B8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ED3AF465-D640-44D6-8793-7172E3E273B8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9D29EEB4-C300-4DF4-B5FB-E8F2882CCF82}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9D29EEB4-C300-4DF4-B5FB-E8F2882CCF82}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9D29EEB4-C300-4DF4-B5FB-E8F2882CCF82}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9D29EEB4-C300-4DF4-B5FB-E8F2882CCF82}.Release|Any CPU.Build.0 = Release|Any CPU
+		{570B29C5-5A62-49BB-8066-B307B9A95FA8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{570B29C5-5A62-49BB-8066-B307B9A95FA8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{570B29C5-5A62-49BB-8066-B307B9A95FA8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{570B29C5-5A62-49BB-8066-B307B9A95FA8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3B79650C-633B-43F0-A4CF-E6D9EA587D87}
+	EndGlobalSection
+EndGlobal
