@@ -1,0 +1,13 @@
+C:\Users\9966\source\repos1\Dotnet-repo\InheritenceAndPolymorphism\InheritenceAndPolymorphism\obj\Debug\InheritenceAndPolymorphism.csproj.AssemblyReference.cache
+C:\Users\9966\source\repos1\Dotnet-repo\InheritenceAndPolymorphism\InheritenceAndPolymorphism\obj\Debug\InheritenceAndPolymorphism.csproj.SuggestedBindingRedirects.cache
+C:\Users\9966\source\repos1\Dotnet-repo\InheritenceAndPolymorphism\InheritenceAndPolymorphism\obj\Debug\InheritenceAndPolymorphism.csproj.CoreCompileInputs.cache
+C:\Users\9966\source\repos1\Dotnet-repo\InheritenceAndPolymorphism\InheritenceAndPolymorphism\bin\Debug\InheritenceAndPolymorphism.exe.config
+C:\Users\9966\source\repos1\Dotnet-repo\InheritenceAndPolymorphism\InheritenceAndPolymorphism\bin\Debug\InheritenceAndPolymorphism.exe
+C:\Users\9966\source\repos1\Dotnet-repo\InheritenceAndPolymorphism\InheritenceAndPolymorphism\bin\Debug\InheritenceAndPolymorphism.pdb
+C:\Users\9966\source\repos1\Dotnet-repo\InheritenceAndPolymorphism\InheritenceAndPolymorphism\bin\Debug\Library1.dll
+C:\Users\9966\source\repos1\Dotnet-repo\InheritenceAndPolymorphism\InheritenceAndPolymorphism\bin\Debug\Library1.pdb
+C:\Users\9966\source\repos1\Dotnet-repo\InheritenceAndPolymorphism\InheritenceAndPolymorphism\obj\Debug\InheritenceAndPolymorphism.csproj.CopyComplete
+C:\Users\9966\source\repos1\Dotnet-repo\InheritenceAndPolymorphism\InheritenceAndPolymorphism\obj\Debug\InheritenceAndPolymorphism.exe
+C:\Users\9966\source\repos1\Dotnet-repo\InheritenceAndPolymorphism\InheritenceAndPolymorphism\obj\Debug\InheritenceAndPolymorphism.pdb
+C:\Users\9966\source\repos1\Dotnet-repo\InheritenceAndPolymorphism\InheritenceAndPolymorphism\bin\Debug\Library2.dll
+C:\Users\9966\source\repos1\Dotnet-repo\InheritenceAndPolymorphism\InheritenceAndPolymorphism\bin\Debug\Library2.pdb

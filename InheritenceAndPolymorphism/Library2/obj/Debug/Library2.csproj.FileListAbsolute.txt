@@ -1,0 +1,6 @@
+C:\Users\9966\source\repos1\Dotnet-repo\InheritenceAndPolymorphism\Library2\bin\Debug\Library2.dll
+C:\Users\9966\source\repos1\Dotnet-repo\InheritenceAndPolymorphism\Library2\bin\Debug\Library2.pdb
+C:\Users\9966\source\repos1\Dotnet-repo\InheritenceAndPolymorphism\Library2\obj\Debug\Library2.csproj.AssemblyReference.cache
+C:\Users\9966\source\repos1\Dotnet-repo\InheritenceAndPolymorphism\Library2\obj\Debug\Library2.csproj.CoreCompileInputs.cache
+C:\Users\9966\source\repos1\Dotnet-repo\InheritenceAndPolymorphism\Library2\obj\Debug\Library2.dll
+C:\Users\9966\source\repos1\Dotnet-repo\InheritenceAndPolymorphism\Library2\obj\Debug\Library2.pdb
