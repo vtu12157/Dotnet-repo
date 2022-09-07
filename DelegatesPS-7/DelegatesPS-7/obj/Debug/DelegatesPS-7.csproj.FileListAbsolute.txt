@@ -1,0 +1,8 @@
+C:\Users\9966\source\repos1\Dotnet-repo\DelegatesPS-7\DelegatesPS-7\bin\Debug\DelegatesPS-7.exe.config
+C:\Users\9966\source\repos1\Dotnet-repo\DelegatesPS-7\DelegatesPS-7\bin\Debug\DelegatesPS-7.exe
+C:\Users\9966\source\repos1\Dotnet-repo\DelegatesPS-7\DelegatesPS-7\bin\Debug\DelegatesPS-7.pdb
+C:\Users\9966\source\repos1\Dotnet-repo\DelegatesPS-7\DelegatesPS-7\obj\Debug\DelegatesPS-7.csproj.AssemblyReference.cache
+C:\Users\9966\source\repos1\Dotnet-repo\DelegatesPS-7\DelegatesPS-7\obj\Debug\DelegatesPS-7.csproj.SuggestedBindingRedirects.cache
+C:\Users\9966\source\repos1\Dotnet-repo\DelegatesPS-7\DelegatesPS-7\obj\Debug\DelegatesPS-7.csproj.CoreCompileInputs.cache
+C:\Users\9966\source\repos1\Dotnet-repo\DelegatesPS-7\DelegatesPS-7\obj\Debug\DelegatesPS-7.exe
+C:\Users\9966\source\repos1\Dotnet-repo\DelegatesPS-7\DelegatesPS-7\obj\Debug\DelegatesPS-7.pdb
