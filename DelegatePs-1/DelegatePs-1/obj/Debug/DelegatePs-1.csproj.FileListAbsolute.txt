@@ -1,0 +1,8 @@
+C:\Users\9966\source\repos1\Dotnet-repo\DelegatePs-1\DelegatePs-1\bin\Debug\DelegatePs-1.exe.config
+C:\Users\9966\source\repos1\Dotnet-repo\DelegatePs-1\DelegatePs-1\bin\Debug\DelegatePs-1.exe
+C:\Users\9966\source\repos1\Dotnet-repo\DelegatePs-1\DelegatePs-1\bin\Debug\DelegatePs-1.pdb
+C:\Users\9966\source\repos1\Dotnet-repo\DelegatePs-1\DelegatePs-1\obj\Debug\DelegatePs-1.csproj.AssemblyReference.cache
+C:\Users\9966\source\repos1\Dotnet-repo\DelegatePs-1\DelegatePs-1\obj\Debug\DelegatePs-1.csproj.SuggestedBindingRedirects.cache
+C:\Users\9966\source\repos1\Dotnet-repo\DelegatePs-1\DelegatePs-1\obj\Debug\DelegatePs-1.csproj.CoreCompileInputs.cache
+C:\Users\9966\source\repos1\Dotnet-repo\DelegatePs-1\DelegatePs-1\obj\Debug\DelegatePs-1.exe
+C:\Users\9966\source\repos1\Dotnet-repo\DelegatePs-1\DelegatePs-1\obj\Debug\DelegatePs-1.pdb

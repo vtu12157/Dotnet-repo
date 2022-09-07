@@ -31,6 +31,7 @@ namespace Interface1
     public class current:IBank
     {
         public DateTime d1 = new DateTime(2019, 02, 03);
+        
         public void printbalance()
         {
             Console.WriteLine("The balance is " + B);
