@@ -1,0 +1,11 @@
+C:\Users\9966\source\repos1\Dotnet-repo\Abstract\Abstract\bin\Debug\Abstract.exe.config
+C:\Users\9966\source\repos1\Dotnet-repo\Abstract\Abstract\bin\Debug\Abstract.exe
+C:\Users\9966\source\repos1\Dotnet-repo\Abstract\Abstract\bin\Debug\Abstract.pdb
+C:\Users\9966\source\repos1\Dotnet-repo\Abstract\Abstract\obj\Debug\Abstract.csproj.AssemblyReference.cache
+C:\Users\9966\source\repos1\Dotnet-repo\Abstract\Abstract\obj\Debug\Abstract.csproj.SuggestedBindingRedirects.cache
+C:\Users\9966\source\repos1\Dotnet-repo\Abstract\Abstract\obj\Debug\Abstract.csproj.CoreCompileInputs.cache
+C:\Users\9966\source\repos1\Dotnet-repo\Abstract\Abstract\obj\Debug\Abstract.exe
+C:\Users\9966\source\repos1\Dotnet-repo\Abstract\Abstract\obj\Debug\Abstract.pdb
+C:\Users\9966\source\repos1\Dotnet-repo\Abstract\Abstract\bin\Debug\Library1.dll
+C:\Users\9966\source\repos1\Dotnet-repo\Abstract\Abstract\bin\Debug\Library1.pdb
+C:\Users\9966\source\repos1\Dotnet-repo\Abstract\Abstract\obj\Debug\Abstract.csproj.CopyComplete
