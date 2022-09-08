@@ -1,0 +1,11 @@
+C:\Users\9966\source\repos1\Dotnet-repo\deptcls\deptcls\bin\Debug\deptcls.exe.config
+C:\Users\9966\source\repos1\Dotnet-repo\deptcls\deptcls\bin\Debug\deptcls.exe
+C:\Users\9966\source\repos1\Dotnet-repo\deptcls\deptcls\bin\Debug\deptcls.pdb
+C:\Users\9966\source\repos1\Dotnet-repo\deptcls\deptcls\obj\Debug\deptcls.csproj.AssemblyReference.cache
+C:\Users\9966\source\repos1\Dotnet-repo\deptcls\deptcls\obj\Debug\deptcls.csproj.SuggestedBindingRedirects.cache
+C:\Users\9966\source\repos1\Dotnet-repo\deptcls\deptcls\obj\Debug\deptcls.csproj.CoreCompileInputs.cache
+C:\Users\9966\source\repos1\Dotnet-repo\deptcls\deptcls\obj\Debug\deptcls.exe
+C:\Users\9966\source\repos1\Dotnet-repo\deptcls\deptcls\obj\Debug\deptcls.pdb
+C:\Users\9966\source\repos1\Dotnet-repo\deptcls\deptcls\bin\Debug\Library1.dll
+C:\Users\9966\source\repos1\Dotnet-repo\deptcls\deptcls\bin\Debug\Library1.pdb
+C:\Users\9966\source\repos1\Dotnet-repo\deptcls\deptcls\obj\Debug\deptcls.csproj.CopyComplete

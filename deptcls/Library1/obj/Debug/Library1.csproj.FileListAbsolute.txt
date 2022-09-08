@@ -1,0 +1,6 @@
+C:\Users\9966\source\repos1\Dotnet-repo\deptcls\Library1\bin\Debug\Library1.dll
+C:\Users\9966\source\repos1\Dotnet-repo\deptcls\Library1\bin\Debug\Library1.pdb
+C:\Users\9966\source\repos1\Dotnet-repo\deptcls\Library1\obj\Debug\Library1.csproj.AssemblyReference.cache
+C:\Users\9966\source\repos1\Dotnet-repo\deptcls\Library1\obj\Debug\Library1.csproj.CoreCompileInputs.cache
+C:\Users\9966\source\repos1\Dotnet-repo\deptcls\Library1\obj\Debug\Library1.dll
+C:\Users\9966\source\repos1\Dotnet-repo\deptcls\Library1\obj\Debug\Library1.pdb
