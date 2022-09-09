@@ -1,0 +1,8 @@
+C:\Users\9966\source\repos1\Dotnet-repo\MultiThreadingPS-2\MultiThreadingPS-2\bin\Debug\MultiThreadingPS-2.exe.config
+C:\Users\9966\source\repos1\Dotnet-repo\MultiThreadingPS-2\MultiThreadingPS-2\bin\Debug\MultiThreadingPS-2.exe
+C:\Users\9966\source\repos1\Dotnet-repo\MultiThreadingPS-2\MultiThreadingPS-2\bin\Debug\MultiThreadingPS-2.pdb
+C:\Users\9966\source\repos1\Dotnet-repo\MultiThreadingPS-2\MultiThreadingPS-2\obj\Debug\MultiThreadingPS-2.csproj.AssemblyReference.cache
+C:\Users\9966\source\repos1\Dotnet-repo\MultiThreadingPS-2\MultiThreadingPS-2\obj\Debug\MultiThreadingPS-2.csproj.SuggestedBindingRedirects.cache
+C:\Users\9966\source\repos1\Dotnet-repo\MultiThreadingPS-2\MultiThreadingPS-2\obj\Debug\MultiThreadingPS-2.csproj.CoreCompileInputs.cache
+C:\Users\9966\source\repos1\Dotnet-repo\MultiThreadingPS-2\MultiThreadingPS-2\obj\Debug\MultiThreadingPS-2.exe
+C:\Users\9966\source\repos1\Dotnet-repo\MultiThreadingPS-2\MultiThreadingPS-2\obj\Debug\MultiThreadingPS-2.pdb

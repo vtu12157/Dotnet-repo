@@ -1,0 +1,8 @@
+C:\Users\9966\source\repos1\Dotnet-repo\MultiThreadingPs-4\MultiThreadingPs-4\bin\Debug\MultiThreadingPs-4.exe.config
+C:\Users\9966\source\repos1\Dotnet-repo\MultiThreadingPs-4\MultiThreadingPs-4\bin\Debug\MultiThreadingPs-4.exe
+C:\Users\9966\source\repos1\Dotnet-repo\MultiThreadingPs-4\MultiThreadingPs-4\bin\Debug\MultiThreadingPs-4.pdb
+C:\Users\9966\source\repos1\Dotnet-repo\MultiThreadingPs-4\MultiThreadingPs-4\obj\Debug\MultiThreadingPs-4.csproj.AssemblyReference.cache
+C:\Users\9966\source\repos1\Dotnet-repo\MultiThreadingPs-4\MultiThreadingPs-4\obj\Debug\MultiThreadingPs-4.csproj.SuggestedBindingRedirects.cache
+C:\Users\9966\source\repos1\Dotnet-repo\MultiThreadingPs-4\MultiThreadingPs-4\obj\Debug\MultiThreadingPs-4.csproj.CoreCompileInputs.cache
+C:\Users\9966\source\repos1\Dotnet-repo\MultiThreadingPs-4\MultiThreadingPs-4\obj\Debug\MultiThreadingPs-4.exe
+C:\Users\9966\source\repos1\Dotnet-repo\MultiThreadingPs-4\MultiThreadingPs-4\obj\Debug\MultiThreadingPs-4.pdb
